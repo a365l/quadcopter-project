@@ -1,0 +1,10 @@
+﻿# CAD temp files
+*.bak
+*.lock
+*.lck
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large binary placeholders — add real files normally

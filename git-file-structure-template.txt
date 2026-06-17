@@ -1,0 +1,53 @@
+## THE REPO STRUCTURE (build this on Day 1)
+
+Public Git repository. Everything lives here — CAD, calcs (even photographed handwritten ones), code, logbook, data. This is your spine.
+
+```
+quadcopter-project/
+├── README.md                      ← project overview, current status, links
+├── logbook/
+│   ├── week-01.md                 ← dated running log, one file per week
+│   ├── week-02.md
+│   └── ...
+├── 00-specification/
+│   ├── PDS.md                     ← Product Design Specification (living doc)
+│   └── requirements-tracking.md   ← each requirement → met/not-met + evidence link
+├── 01-calculations/
+│   ├── propulsion-momentum-theory.md
+│   ├── arm-resonance-cantilever.md
+│   ├── sandwich-panel-EI.md
+│   ├── bolt-preload-clamp.md
+│   ├── cg-and-inertia.md
+│   └── handwritten/               ← photos of handwritten pages, dated filenames
+├── 02-trade-studies/
+│   ├── frame-diameter-vs-prop.md
+│   ├── clamp-material-pugh.md
+│   ├── props-in-vs-out.md
+│   ├── cnc-commit-decision.md
+│   └── control-software-approach.md
+├── 03-cad/
+│   ├── source/                    ← native CAD files
+│   ├── drawings/                  ← GD&T dimensioned PDFs
+│   └── renders/
+├── 04-manufacture/
+│   ├── BOM.md                     ← bill of materials: part, cost, supplier, status
+│   ├── build-photos/              ← timestamped, straight off the camera
+│   └── assembly-notes.md          ← torque values, mass of each subsystem
+├── 05-testing/
+│   ├── thrust-stand/              ← raw CSV + plots
+│   ├── vibration-blackbox/        ← logs + spectrograms
+│   ├── flight-logs/
+│   └── test-vs-prediction.md      ← THE CROWN-JEWEL comparison document
+├── 06-failure-log/
+│   └── failure-log.md             ← running: symptom → photo → calc → fix → retest
+├── 07-flight-controller/          ← THE SOFTWARE PILLAR (optional extra)
+│   ├── README.md
+│   ├── src/
+│   ├── docs/                      ← control-loop & fusion-filter design
+│   └── results/                   ← comparison vs off-the-shelf baseline
+├── 08-final-report/
+│   ├── technical-report.md        ← the assembled EPQ artefact (built week 9–10)
+│   └── risk-assessment.md
+└── media/
+    └── video/                     ← narrated clips at key milestones
+```
