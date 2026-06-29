@@ -1,4 +1,4 @@
-# Sandwich Panel — Flexural Rigidity (EI)
+# Sandwich Panel - Flexural Rigidity (EI)
 
 ## Objective
 

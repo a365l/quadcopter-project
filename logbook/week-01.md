@@ -1,4 +1,4 @@
-# Week 01 — [Date]
+# Week 01 - [Date]
 
 ## What I did
 -
