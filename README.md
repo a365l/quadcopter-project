@@ -3,7 +3,7 @@
 **Status:** In progress
 
 ## Overview
-A quadcopter designed and built from scratch, documenting the full engineering process — calculations, trade studies, CAD, manufacturing, and testing.
+A quadcopter designed and built from scratch, documenting the full engineering process - calculations, trade studies, CAD, manufacturing, and testing.
 
 ## Structure
 | Folder | Contents |

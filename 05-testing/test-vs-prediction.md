@@ -1,6 +1,6 @@
 # Test vs Prediction
 
-_The crown-jewel comparison document — fill this in as tests are completed._
+_The crown-jewel comparison document - fill this in as tests are completed._
 
 ## Thrust Stand Results
 
