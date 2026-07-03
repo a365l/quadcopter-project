@@ -1,4 +1,4 @@
-# Arm Resonance — Cantilever Model
+# Arm Resonance - Cantilever Model
 
 ## Objective
 

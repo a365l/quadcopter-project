@@ -1,4 +1,4 @@
-# Week 01 — 29/06/26
+# Week 01 - 29/06/26
 
 ## What I did
 - Created a github repository structure
