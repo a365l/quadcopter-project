@@ -1,4 +1,5 @@
 # Session 03 - 02/08/26
+- Note: This days commit marks the first meaningful contribution to the project, hence the documention strucutre and methods are subject to change (basically I'll probably get better at writing this over time)
 
 ## What I did
 - Began by researching momntum theory - I understand it to be the governing theory utilising newtons laws of conservation
@@ -13,6 +14,10 @@
 
 
 ## Related files
+- \logbook\session\#03 Disk Loading Based Decisions 26-08-01.md
+- \02-trade-studdies\frame-diameter-vs-prop.md
+- \01-calculations\handwritten\#03 Disk Loading & Non-Overlap\*
+
 
 ## Blockers / open questions
 - Feel somewhat lost as to how to go about researching these physical theories - lectures? textbooks? youtube? ai?
