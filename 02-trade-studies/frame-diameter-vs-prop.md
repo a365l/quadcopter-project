@@ -22,4 +22,4 @@
 ## Decision & Rationale
 
 15" @ 700mm 
-Higher DL, better efficiency and higher inertia (slower), 700mm allows 114cm clearance.
+Lower DL, better efficiency and higher inertia (slower), 700mm allows 114cm clearance.

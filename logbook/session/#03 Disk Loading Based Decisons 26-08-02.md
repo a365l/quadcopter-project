@@ -14,7 +14,7 @@
 
 
 ## Related files
-- \logbook\session\#03 Disk Loading Based Decisions 26-08-01.md
+- \logbook\session\#03 Disk Loading Based Decisions 26-08-02.md
 - \02-trade-studdies\frame-diameter-vs-prop.md
 - \01-calculations\handwritten\#03 Disk Loading & Non-Overlap\*
 
